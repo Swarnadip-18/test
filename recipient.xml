@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Recipient>
+  <user_id>2</user_id>
+  <EmailAddress>marek.lotkowski@gmail.com</EmailAddress>
+  <RecipientId>17f3d65b8ac26d5c2753a2dbcf28f68c</RecipientId>
+  <SiteUrl>https://resume.test</SiteUrl>
+  <BrandName>Resume.io</BrandName>
+  <BrandDisplayName>Resume.io</BrandDisplayName>
+  <FirstName>Mareczek</FirstName>
+  <Jobs>
+    <Job>
+      <Logo>https://media.licdn.com/dms/image/v2/C4E0BAQHRif0jk1zxSQ/company-logo_100_100/company-logo_100_100/0/1669117315874/lycamobile_logo?e=2147483647&amp;v=beta&amp;t=fNqGgsaH6qWJe0IFcjXVJrPHJuyo3_1Te-TQI7hWKco</Logo>
+      <Title>Product Manager - Telecoms</Title>
+      <Company>Lyca Mobile Group</Company>
+      <Location>Warsaw, Mazowieckie, Poland</Location>
+      <URL>https://resume.test/app/job-search/</URL>
+    </Job>
+    <Job>
+      <Logo>http://resume.test/default_logo</Logo>
+      <Title>Product Manager - DEX Engine Data</Title>
+      <Company>Allegro sp. z o.o.</Company>
+      <Location>Warsaw, PL</Location>
+      <URL>https://resume.test/app/job-search/</URL>
+    </Job>
+    <Job>
+      <Logo>http://resume.test/default_logo</Logo>
+      <Title>Product Manager - DEX Engine Data</Title>
+      <Company>Allegro sp. z o.o.</Company>
+      <Location>Warsaw, PL</Location>
+      <URL>https://resume.test/app/job-search/</URL>
+    </Job>
+    <Job>
+      <Logo>http://resume.test/default_logo</Logo>
+      <Title>Product Manager - Internal Products</Title>
+      <Company>expondo</Company>
+      <Location>Warsaw, PL</Location>
+      <URL>https://resume.test/app/job-search/</URL>
+    </Job>
+    <Job>
+      <Logo>https://media.licdn.com/dms/image/v2/D4D0BAQG0ol2oatlPIQ/company-logo_100_100/company-logo_100_100/0/1720445566441/olx_group_logo?e=2147483647&amp;v=beta&amp;t=VNnbiXy5c3bY19RuB4_n2OD50d3Ks8pTSjAzuaqwvoE</Logo>
+      <Title>Product Manager - Frontend Platform</Title>
+      <Company>OLX</Company>
+      <Location>Warsaw, Mazowieckie, Poland</Location>
+      <URL>https://resume.test/app/job-search/</URL>
+    </Job>
+  </Jobs>
+  <TargetRole>Product Manager</TargetRole>
+  <TargetLocation>Warsaw, Masovian Voivodeship, PL</TargetLocation>
+  <UnSubscribeToken>33c254aea7e811aff4fe02eb3d06cad7</UnSubscribeToken>
+</Recipient>
